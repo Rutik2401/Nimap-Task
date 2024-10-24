@@ -1,0 +1,40 @@
+.navbar1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+.Nav-wrapper{
+  background-color:#353b3f;
+  
+}
+.Navbar{
+  width: 85%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .Navbar{
+    width: 97%;
+    margin: 0 auto;
+  }
+  form{
+    display: flex;
+    flex-direction: column;
+  }
+  .right{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .search{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+  }
+  .wrapper{
+    width: 100%;
+  }
+}
