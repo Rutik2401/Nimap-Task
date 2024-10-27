@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nimap-Task/static/css/main.b66cc62a.css",
-    "main.js": "/Nimap-Task/static/js/main.3e74ccc8.js",
-    "static/js/453.ca28609e.chunk.js": "/Nimap-Task/static/js/453.ca28609e.chunk.js",
-    "index.html": "/Nimap-Task/index.html",
-    "main.b66cc62a.css.map": "/Nimap-Task/static/css/main.b66cc62a.css.map",
-    "main.3e74ccc8.js.map": "/Nimap-Task/static/js/main.3e74ccc8.js.map",
-    "453.ca28609e.chunk.js.map": "/Nimap-Task/static/js/453.ca28609e.chunk.js.map"
+    "main.css": "/Movie-Application/static/css/main.b66cc62a.css",
+    "main.js": "/Movie-Application/static/js/main.fc7470d3.js",
+    "static/js/453.ca28609e.chunk.js": "/Movie-Application/static/js/453.ca28609e.chunk.js",
+    "index.html": "/Movie-Application/index.html",
+    "main.b66cc62a.css.map": "/Movie-Application/static/css/main.b66cc62a.css.map",
+    "main.fc7470d3.js.map": "/Movie-Application/static/js/main.fc7470d3.js.map",
+    "453.ca28609e.chunk.js.map": "/Movie-Application/static/js/453.ca28609e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b66cc62a.css",
-    "static/js/main.3e74ccc8.js"
+    "static/js/main.fc7470d3.js"
   ]
 }
