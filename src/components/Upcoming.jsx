@@ -26,7 +26,7 @@ const Upcoming = ({ searchResults, movieName }) => {
     getUpcomingMovies();
   }, []);
 
-  // Determine which movies to display based on search query
+
   const moviesToDisplay = movieName ? searchResults : topUpcomingMovies;
   const handleMovieClick = (movieId) => {
     navigate(`/details/${movieId}`); 

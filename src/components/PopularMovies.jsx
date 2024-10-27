@@ -27,7 +27,7 @@ const PopularMovies = ({ searchResults, movieName }) => {
     getPopular();
   }, []);
 
-  // Determine which movies to display based on search query
+ 
   const moviesToDisplay = movieName ? searchResults : popularMovies;
 
   const handleMovieClick = (movieId) => {
@@ -56,7 +56,7 @@ const PopularMovies = ({ searchResults, movieName }) => {
           ))}
         </div>
       )}
-      <Outlet /> {/* This will render child routes */}
+      <Outlet /> 
     </div>
   );
 };

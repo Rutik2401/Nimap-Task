@@ -30,7 +30,7 @@ const TopRated = ({ searchResults, movieName }) => {
     navigate(`/details/${movieId}`); 
   };
 
-  // Determine which movies to display based on search query
+ 
   const moviesToDisplay = movieName ? searchResults : topRatedMovies;
 
   return (
